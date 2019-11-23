@@ -1,0 +1,27 @@
+
+.container{
+    width: 100%;
+    padding: 30px;
+}
+.col-md-4{
+    background-color: gray;
+    border: 1px solid white;
+    border-radius: auto;
+    padding: 10px;
+    color: white;
+}
+
+.col-md-8{
+    background-color: Gray;
+    border: 1px solid white;
+    border-radius: auto;
+    padding: 10px;
+    color: white;
+}
+.col-md-12{
+    background-color: Gray;
+    border: 1px solid white;
+    border-radius: auto;
+    padding: 10px;
+    color: white;
+}

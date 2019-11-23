@@ -1,0 +1,51 @@
+
+.box1{
+    height: 600px;
+    padding: 1px;
+}
+.box2{
+    height: 400px;
+    padding: 1px;
+}
+.box3{
+    height: 100px;
+    padding: 1px;
+  }
+.box4{
+    height: 100px;
+    padding: 1px;
+    }
+
+.box5{
+    height: 75px;
+    padding: 1px;
+  
+}
+
+.container{
+    width: 100%;
+    padding: 30px;
+    text-align: justify-all;
+}
+
+.col-md-4{
+    background-color: gray;
+    border: 1px solid white;
+    border-radius: auto;
+    padding: 10px;
+    color: white;
+}
+.col-md-8{
+    background-color: gray;
+    border: 1px solid white;
+    border-radius: auto;
+    padding: 10px;
+    color: white;
+}
+.col-md-12{
+    padding: 10px;
+    color: white;
+    background-color: gray;
+    border: 1px solid white;
+    border-radius: auto; 
+}
