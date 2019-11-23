@@ -1,0 +1,41 @@
+
+@media  {
+	body {
+		padding-left: 17rem
+	}
+}
+
+h1,
+h2,
+ {
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 3.5rem;
+}
+h2 {
+	font-size: 2.5rem
+}
+
+h3 {
+	font-size: 2rem
+}
+
+p.lead {
+	font-size: 1.15rem;
+	font-weight: 200
+}
+
+.subheading {
+	text-transform: uppercase;
+	font-weight: 300;
+	font-size: 1.5rem
+}
+
+
+section.resume-section {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	max-width: 80rem
+}
